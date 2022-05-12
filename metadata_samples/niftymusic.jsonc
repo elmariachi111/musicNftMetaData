@@ -1,0 +1,22 @@
+//https://opensea.io/assets/0xf89cfa360a2b883d7325d94eeea89c2b7079c1a3/244
+{
+  "name": "Nifty Sax Sphere #244 - Spica",
+  "image": "ipfs://QmW4CPzzPzJU2QqmG3tSDqX2LKv8qZ7uGZwpyKTRyDrroZ",
+  "animation_url": "ipfs://QmSmpqpg3d622Ss8a1qSCUkGW4hguiqY6FWwd9mtJxT4hk",
+  "description": "Nifty Sax: Spheres  \n  \nA collection of meditative, solo saxophone music.  \nExpressed in 55 unique, audio-reactive tokens.  \n  \n[niftysax.com](https://niftysax.com/spheres)",
+  "external_url": "https://www.niftysax.com/spheres",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "NiftySax"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1 of 10"
+    }
+  ]
+}
