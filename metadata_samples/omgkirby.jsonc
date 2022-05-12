@@ -1,0 +1,75 @@
+//https://opensea.io/assets/0xafef885027a59603dff7837c280dad772c476b82/186
+{
+  "name": "omgkirby GENESIS #186",
+  "description": "The omgkirby genesis collection includes the release of 3,000 unique pieces of generative lofi music and the formation of the omgkirby DAO. Each song and its accompanying visual is created via a beautiful cooperation between human and machine; The individual NFTs are a novel combination of algorithmically-assisted music and hand-drawn art.",
+  "external_url": "https://www.notables.co",
+  "attributes": [
+    {
+      "trait_type": "Background - Chords",
+      "value": "City LoPiano"
+    },
+    {
+      "trait_type": "Carriage - Guitar",
+      "value": "OrangeAcoustic"
+    },
+    {
+      "trait_type": "Girl - Vocals",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Chair - FX",
+      "value": "Bunnybag FX10"
+    },
+    {
+      "trait_type": "Midshelf - Drums",
+      "value": "Owl Half-time"
+    },
+    {
+      "trait_type": "Topshelf - Bass",
+      "value": "Reels 808"
+    }
+  ],
+  "layers": [
+    "https://shufflemint.mypinata.cloud/ipfs/QmQHZTGVBUsxoYryFGA24CFYbCyxc9nQcq7rkQCbat8cme",
+    "https://shufflemint.mypinata.cloud/ipfs/QmbCRmarCfXq1AAF3jV3U9AK6RQrZ9GVyraqJw5PmVasFK",
+    "https://shufflemint.mypinata.cloud/ipfs/QmTRceaWHhg1ygb35p1TKtVnwYqfV2JWU5N4CQi4gGuHxN",
+    "https://shufflemint.mypinata.cloud/ipfs/QmYbmngDkjTyVn1Y1vXoWDTksGnNeQBETxLfkDmKTv4dq4",
+    "https://shufflemint.mypinata.cloud/ipfs/QmdF7WA4GUsN2hcYyHPq5pkUSQ5uo5yaDt4EASn9VnvvmN",
+    "https://shufflemint.mypinata.cloud/ipfs/QmXy4ERKiLQwt5bT1WLrKwLAr3D51CNXNEZJYjUXMwdnyL"
+  ],
+  "stems": [
+    {
+      "type": "Chords",
+      "name": "Lo Fi Piano",
+      "url": "https://shufflemint.mypinata.cloud/ipfs/QmR4km4t9RyfiKNXdzJVSvxNdBw29jVHyRuktUmcge89mU"
+    },
+    {
+      "type": "Guitar",
+      "name": "Acoustic Guitar",
+      "url": "https://shufflemint.mypinata.cloud/ipfs/QmYvQScrqHnv9meSkLm97eCzUXLaBgSrb71UbRNY3pqQux"
+    },
+    {
+      "type": "Vocals",
+      "name": "Robot",
+      "url": "https://shufflemint.mypinata.cloud/ipfs/QmaWppHnAoA5kw5sBihS4kPRDyr4jaqMPhFVCZegt4VchT"
+    },
+    {
+      "type": "FX",
+      "name": "FX10",
+      "url": "https://shufflemint.mypinata.cloud/ipfs/QmXbTkMaQccS3dEnk4yjj3WSCiHqpqddQdnPsZtLnUitJf"
+    },
+    {
+      "type": "Drums",
+      "name": "Halftime",
+      "url": "https://shufflemint.mypinata.cloud/ipfs/QmRiWATRUAAhNsHw8RyNrT2xMLYRwSNTD4ckSR79ADhxTq"
+    },
+    {
+      "type": "Bass",
+      "name": "808",
+      "url": "https://shufflemint.mypinata.cloud/ipfs/QmYLcQsmhD4G2wQbNvP9okcUgRwjV5GwVdXVFP1mfBGjkG"
+    }
+  ],
+  "audio_url": "https://shufflemint.mypinata.cloud/ipfs/QmRkPk7ZyfXpqywEBZNunn6bAboUNGKo7XgUUM846SuNwa",
+  "animation_url": "https://shufflemint.mypinata.cloud/ipfs/QmS9YmBssCpyKS5zuAA9PjHniBRur3ZBBzLj8bktqimk8f",
+  "image": "ipfs://QmSwBmhZV2asWJRgvuyvFbb26fL1FncB6whQaYBC3Pn51U"
+}

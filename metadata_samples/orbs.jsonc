@@ -1,0 +1,86 @@
+//https://opensea.io/assets/0x52e66ca968010d064938a8099a172cbaaf08c125/898
+{
+  "description": "The Orbs are 3,333 real time, generative music and art NFTs. Each a unique, meditative, live coded combination of complex visual animations, run-time synthesis, DSP and live MIDI sequencing that will never loop - until the end of the internet.",
+  "external_url": "https://arweave.net/IympTVPU34xjOP1xKf6rBVgdH7bRkcP0zP9uOTp2-Zw",
+  "image": "https://arweave.net/2Mp91FnPuc4qKrBrR3VJo29lYMCEH7G6ljfvA53qCmU/pys49l2d.png",
+  "background_color": "000000",
+  "animation_url": "https://arweave.net/IympTVPU34xjOP1xKf6rBVgdH7bRkcP0zP9uOTp2-Zw",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Orb Type",
+      "value": "Particle Sphere"
+    },
+    {
+      "trait_type": "Orb Texture",
+      "value": "Brushed Steel"
+    },
+    {
+      "trait_type": "Planet Type",
+      "value": "Oceanic"
+    },
+    {
+      "trait_type": "Sky",
+      "value": "Long Breath"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "Clear Sky"
+    },
+    {
+      "trait_type": "Color Family",
+      "value": "Dark Mode"
+    },
+    {
+      "trait_type": "Color Palette",
+      "value": "Marigold Nights"
+    },
+    {
+      "trait_type": "Gradient",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Vibe",
+      "value": "Trippy Pancakes Custom"
+    },
+    {
+      "trait_type": "Camera Movement",
+      "value": "Arc"
+    },
+    {
+      "trait_type": "Root Key",
+      "value": "Eb"
+    },
+    {
+      "trait_type": "Scale",
+      "value": "Dorian"
+    },
+    {
+      "trait_type": "Tempo",
+      "value": "Field of Possibility"
+    },
+    {
+      "trait_type": "Melody",
+      "value": "Sine"
+    },
+    {
+      "trait_type": "Synthesis Engine 1",
+      "value": "Pursuit Of Silence"
+    },
+    {
+      "trait_type": "Synthesis Engine 2",
+      "value": "Bladed Cricket Forest 3"
+    },
+    {
+      "trait_type": "Synthesis Engine 3",
+      "value": "Eno Days"
+    },
+    {
+      "trait_type": "Synthesis Engine 4",
+      "value": "Pads 2"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+// https://sound.xyz/api/metadata/112/1/340282366920938463463374607431768211463
+
+{
+  name: 'Dip #7',
+  artist_name: 'Bearson',
+  description: 'My musical journey started in 2014 after I put up my first edit on Soundcloud by recommendation from a friend. I was surprised at the interest it got and fast-forwarding one year I signed a record deal and moved out to Los Angeles. Here I met a lot of like-minded producers and I started playing shows on tour with Louis The Child and Whethan.\n' +
+    '\n' +
+    "After a few years of touring my interest shifted more towards producing for others and I’ve had a lot of fun in that realm. I got the opportunity to work with some amazing artists including BØRNS, Tove Lo, Carly Rae Jepsen and Anna of the North to name a few. It's always been important to me to dive into new things, and this was a meaningful step in my musical path.\n" +
+    '\n' +
+    'In late November last year I tore my meniscus and had to go through surgery. I stayed mostly in bed for over a month straight and felt this incredible dread from not being able to do the things I normally do. Music became the best therapy during that period and I started making loads of beats. It was a really fun and creative path for my music, which I hope shines through in this track.\n' +
+    '\n' +
+    'This is the result of being limited to headphones and a computer. I hope you enjoy <3',
+  external_url: 'https://www.sound.xyz/bearson/dip',
+  image: 'https://soundxyz.mypinata.cloud/ipfs/QmRxJiLUFJZ8kCJJG9jCp3q431FUzZ7SWiArf8zbxwzSZb',
+  audio_url: 'https://soundxyz.mypinata.cloud/ipfs/QmRVas5sxGxQoULRRwuewY8zqC5baHN9HMBfkEcop83DfC',
+  animation_url: 'https://soundxyz.mypinata.cloud/ipfs/QmRVas5sxGxQoULRRwuewY8zqC5baHN9HMBfkEcop83DfC',
+  comment_wall_url: 'https://soundxyz.mypinata.cloud/ipfs/QmbcUn32E5n3Tvfgk9CVmPCVTu9bcrnwRvjbs6dWJaW4sr',
+  attributes: [
+    { trait_type: 'Dip', value: 'Song Edition' },
+    { value: 'Genesis' }
+  ]
+}

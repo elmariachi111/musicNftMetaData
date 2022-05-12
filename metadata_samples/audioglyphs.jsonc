@@ -1,0 +1,114 @@
+//https://opensea.io/assets/0xfb3765e0e7ac73e736566af913fa58c3cfd686b7/9962
+{
+  "matrix": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "colors": [
+    "rgb(72,67,98)",
+    "rgb(70,141,85)",
+    "rgb(81,195,142)"
+  ],
+  "tokenId": 9962,
+  "transactionHash": "0x44689d64bbdc5ae8dce542a7a9245bd373e16166a81847ad862fa336d9a2818d",
+  "name": "Tetetoreb",
+  "seed": 7484177503115117,
+  "image": "https://pxg-prod.herokuapp.com/audioglyphs/images/9962",
+  "animation_url": "https://www.audioglyphs.io/embed?id=9962&v=y",
+  "description": "10,000 randomly generated, infinite audio NFTs derived from on-chain Pixelglyph data.\n\nEach Audioglyph synthesizes a unique, infinite stream of music directly in your browser at lossless quality.",
+  "id": null,
+  "attributes": [
+    {
+      "trait_type": "CLOCK",
+      "value": "107.8"
+    },
+    {
+      "trait_type": "MOIRE",
+      "value": "318.4"
+    },
+    {
+      "trait_type": "VOICE",
+      "value": "sawtooth"
+    },
+    {
+      "trait_type": "RANGE",
+      "value": "1.4"
+    },
+    {
+      "trait_type": "SCALE",
+      "value": "0 2 7"
+    },
+    {
+      "trait_type": "SPACE",
+      "value": "0.22"
+    }
+  ]
+}

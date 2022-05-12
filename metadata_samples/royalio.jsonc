@@ -1,0 +1,33 @@
+//https://metadata.royal.io/tier/15312706511442230855851857334429569515567.json
+//https://opensea.io/assets/matic/0x7c885c4bfd179fb59f1056fbea319d579a278075/15312706511442230855851857334429569515644
+{
+  attributes: [
+    { trait_type: 'Tier', value: 'PLATINUM' },
+    {
+      trait_type: 'Edition',
+      value: 'Kill Jill (Feat. Killer Mike & Jeezy)'
+    },
+    { trait_type: 'AssetType', value: 'Single' },
+    {
+      trait_type: 'Single',
+      value: 'Kill Jill (Feat. Killa Mike & Jeezy)'
+    },
+    { display_type: 'number', trait_type: 'Token Number', value: 47 },
+    { trait_type: 'Artist', value: 'Big Boi' },
+    { triat_type: 'Royalty Share', value: '~0.043%' }
+  ],
+  description: `[47/410] Big Boi, the artist who brought southern rap mainstream with OutKast’s Southernplayalisticadillacmuzik, enters the Royal universe with his hit track "Kill Jill". This record marked his return as a solo artist, so it's only fitting Big Boi is dropping it for his first edition on Royal. “Kill Jill” has been a lasting club hit, consistently generating around 10 million streams per year across platforms into 2022. \n` +
+    '\n' +
+    'Learn more: https://royal.io/\n' +
+    '\n' +
+    'View the contract: https://royal.io/editions/big-boi-kill-jill/contract\n' +
+    '\n' +
+    'Important: This token may contain extra benefits. You can find them on the royal listing page for this token. Please note that some token extras may be non-transferable.\n' +
+    '\n' +
+    "To claim your token extras, you will need an account on royal.io associated with the wallet that owns this token. After that, you'll receive further instructions from the artist in your email.\n" +
+    '\n' +
+    'Learn more about token extras: https://support.royal.io/hc/en-us/articles/4415637778451',
+  external_url: 'https://royal.io/editions/big-boi-kill-jill',
+  image: 'https://api.royal.io/assets/23fa3e8b-f85c-4a20-958d-865ea6495b08',
+  name: "#47 Big Boi 'Kill Jill (Feat. Killer Mike & Jeezy)' Royal LDA"
+}

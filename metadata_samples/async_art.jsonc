@@ -1,0 +1,438 @@
+//https://async.art/music/master/0xb6dae651468e9593e4581705a09c10a76ac1e0c8-3773
+{
+  "name": "MozartBeats",
+  "description": "Wolfgang Amadeus Mozart’s masterpiece *Eine kleine Nachtmusik* (\"a little night music\") was completed in Vienna on 10 August 1787 while he worked on the opera Don Giovanni, but the work was not published until about 1827, long after his death. The occasion and the patron for Mozart’s composition remains unknown today and it was probably never performed within the span of his lifetime.\n\nAlmost 200 years later and in the same city of Vienna, the world’s musical capital, Mozart’s masterpiece has been remoulded to reflect society’s evolution into today’s postmodern artistic landscape, with the incorporation of bold and futuristic cutting-edge technologies.\n\nThe structure of the Mastertrack consists of four stems: Violin 1, Violin 2, Viola and Cello, with a total of five variations per stem. Layering different stem variations over one another leads to the creation of personally crafted, magical and unique tapestries of sound, closely related to Mozart’s original.",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Francisco Supin"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Mankind"
+    },
+    {
+      "trait_type": "Layer Count",
+      "value": 4
+    }
+  ],
+  "async-attributes": {
+    "artists": [
+      "0x49d4dab38fc7302d9ab8dceb741b9de1227a37ae",
+      "0xd5b0e02e4cecb59ead4b7b29ee1148f7de774194"
+    ]
+  },
+  "tokenType": "master",
+  "layout": {
+    "type": "layered_static",
+    "version": 5,
+    "layers": [
+      {
+        "id": "Layer_1",
+        "uri": "QmYEh2VrkhdgvmjnSqJNt9bigVbaFrb13CnUVAFKJsNvcm",
+        "label": "1"
+      },
+      {
+        "id": "Layer_2",
+        "states": {
+          "options": [
+            {
+              "uri": "QmcLwabgdm32HLUYYKZ95mmbgCiPKSsx2tocUP3NQ2qrX3",
+              "label": "Variant A",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmZ2eyd61GEc2kYEQ2CCgXQ6KGkJCDno3bF4PZgqatpBxS",
+              "label": "Variant B",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmbzV47j3TW6uHrRKk4mkZi2JhxWvQNdrYsuCMdFsCwD5g",
+              "label": "Variant C",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmT7tjD2Wbzw5bySLhpWPS1X6VPWDx2vmjdsP7TEDKibPu",
+              "label": "Variant D",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmYihVyHk7WNkBTnjAXCwh5VTA5STrbLAQUMjMzYpNfEp9",
+              "label": "Variant E",
+              "anchor": "Layer_1"
+            }
+          ],
+          "token-id": 1,
+          "lever-id": 0
+        }
+      },
+      {
+        "id": "Layer_3",
+        "states": {
+          "options": [
+            {
+              "uri": "QmcLwabgdm32HLUYYKZ95mmbgCiPKSsx2tocUP3NQ2qrX3",
+              "label": "Variant A",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmNoq8K973AFPYMWnQ3EkFypp4WZgJsJePcVxc3p6VNB4x",
+              "label": "Variant B",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "Qme5w4q5wM8dqmjwZ2VtvrZtdS4P3cu6e1EAibdE7p4gKR",
+              "label": "Variant C",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmYvxHoSDmyLgLWra9XRM74wBNWdcT2Cs6djwi2tLECUk7",
+              "label": "Variant D",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmR9mpHdHMDK36GjXvT4zSmAZWKrH3d7mfyCdmuXM8bWqf",
+              "label": "Variant E",
+              "anchor": "Layer_1"
+            }
+          ],
+          "token-id": 2,
+          "lever-id": 0
+        }
+      },
+      {
+        "id": "Layer_4",
+        "states": {
+          "options": [
+            {
+              "uri": "QmcLwabgdm32HLUYYKZ95mmbgCiPKSsx2tocUP3NQ2qrX3",
+              "label": "Variant A",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmdMqLoh8GjKnPsrYmMUQR5SLwLAP9QxEX2bv9xhVWZaJb",
+              "label": "Variant B",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmYhGf38ZAjikLqbLP59pJyvp93m4FcCHDtYSgLiWKXTQa",
+              "label": "Variant C",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmQmLy15SbRvzkvmAhmfbahJ8p2RB2DSxLfkSFEZoGkASM",
+              "label": "Variant D",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmQsmEaRUFiPrWwhAnfHGbqXWbfZLewdceAuHWLTUPTxph",
+              "label": "Variant E",
+              "anchor": "Layer_1"
+            }
+          ],
+          "token-id": 3,
+          "lever-id": 0
+        }
+      },
+      {
+        "id": "Layer_5",
+        "states": {
+          "options": [
+            {
+              "uri": "QmcLwabgdm32HLUYYKZ95mmbgCiPKSsx2tocUP3NQ2qrX3",
+              "label": "Variant A",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "Qmab1hqcfzbjrTJLYen16U6yYWZpEjyaB7F7atqptC2WGy",
+              "label": "Variant B",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmWCaGGnpqRAZt4DCr2fExies5r45qtWacSyhuQJbchwZq",
+              "label": "Variant C",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmR9mdAhm3pzPugoMztVPudq2R68XJVi6DhFFtbSiqscBY",
+              "label": "Variant D",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmenfA5aLqN5AmNrLKqDRNTDg1ywBQRfheGxX22RzHaH4c",
+              "label": "Variant E",
+              "anchor": "Layer_1"
+            }
+          ],
+          "token-id": 4,
+          "lever-id": 0
+        }
+      },
+      {
+        "id": "Stem_Mix_Bg",
+        "uri": "QmckWUxHvWkCNLHNKspzr42EorBgDfzCAx67bnMP4gNXdg",
+        "label": "1",
+        "anchor": "Layer_1"
+      },
+      {
+        "id": "Stem_Mix_0",
+        "states": {
+          "options": [
+            {
+              "uri": "QmZkPkUKV96syd6XeFXWqnDMDDTYewozvFyGzmEn2d9c9g",
+              "label": "Variant A",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmTE9GtMryun56aFa5CDJtvShVJbxZecdNH1cfDCxYUk5d",
+              "label": "Variant B",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmfLC3AXJXnvPou9zsfuto6EbcBo4eL2S7WmJrfarZ9iy5",
+              "label": "Variant C",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmaF8G98zJBTVmVaFa35CHNwJCFPZQHfw1J8Kictz8HnmL",
+              "label": "Variant D",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmUr6T72dDLw4BMicRnyAXgfPV7FJffEe9fLbjtssVeDS2",
+              "label": "Variant E",
+              "anchor": "Layer_1"
+            }
+          ],
+          "token-id": 1,
+          "lever-id": 0
+        }
+      },
+      {
+        "id": "Stem_Mix_1",
+        "states": {
+          "options": [
+            {
+              "uri": "Qmemh1Yf3waJ1KYLQFb74oMA9zBBa1gRSs5n5d1QvFU5Uo",
+              "label": "Variant A",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmcsAdMfoKgBFxr31G3dsNi4M5adgYabvCvaRsNdM4QqqD",
+              "label": "Variant B",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmS2AVoZgMELqC4TRMhaWwkxrUob55yaukTDHfAQhHL4dW",
+              "label": "Variant C",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmVMG3uy6NRsLm1M4XKuAaF5T2Xn4JtUNh2H2EXa6Cj8qq",
+              "label": "Variant D",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "Qmajn7WiVRbYUmE48BqANGHoEJKYekQBVxJ1R87V6bb4Jk",
+              "label": "Variant E",
+              "anchor": "Layer_1"
+            }
+          ],
+          "token-id": 2,
+          "lever-id": 0
+        }
+      },
+      {
+        "id": "Stem_Mix_2",
+        "states": {
+          "options": [
+            {
+              "uri": "QmY8eeBMRdRQxjp2Nit2VpaVfWn2dFh8wmS4MPCugBLuBj",
+              "label": "Variant A",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmePr4jWNhmMSUg98k1DLSv8C2cVym1MpavzHPCL6mfken",
+              "label": "Variant B",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmXQMRFCGCaEw6P9BvNNo9Vhy3TnYiiJa777VgBpGtXtyi",
+              "label": "Variant C",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmaJ1zkurAeehBPBxW5vNRMVbSB4zpMFwHCsshxtepoDrR",
+              "label": "Variant D",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmR7L2Ak9XHpy9Ryivvp33vuYw9QaRDF7CeoJWNMuDfTCP",
+              "label": "Variant E",
+              "anchor": "Layer_1"
+            }
+          ],
+          "token-id": 3,
+          "lever-id": 0
+        }
+      },
+      {
+        "id": "Stem_Mix_3",
+        "states": {
+          "options": [
+            {
+              "uri": "QmaXMUEG41dTfKcUXoaA7xkuro73sVfFvMtoKumscNYTw5",
+              "label": "Variant A",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmYi6KMQV5vHmKAHXQHsqc5ReUsUdi8f8tPSdT649EhJVq",
+              "label": "Variant B",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmUnCbqMkK1pkiYrF51iw3pi35BcpcEi32pGHNPCUDCbwt",
+              "label": "Variant C",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmSVMwzVghtstzfhY1Y5bcfrT1pgLzGEu6BYwYfE12RoDz",
+              "label": "Variant D",
+              "anchor": "Layer_1"
+            },
+            {
+              "uri": "QmW4p5u5DWCP8wnvrNCS4S4DFKaLkxc2NMvgHQ72ERR2Qn",
+              "label": "Variant E",
+              "anchor": "Layer_1"
+            }
+          ],
+          "token-id": 4,
+          "lever-id": 0
+        }
+      },
+      {
+        "id": "QR_Code",
+        "relative-position": {
+          "x": -900,
+          "y": 900
+        },
+        "uri": "QmdMEboXTbDJArxE4fQRyPRNDr3YLrAJJvicGAkd1Eaiac",
+        "label": "1",
+        "anchor": "Layer_1"
+      }
+    ]
+  },
+  "audio-layout": {
+    "type": "layered_static",
+    "version": 1,
+    "mastering": {
+      "filters": [
+        "equalizer=f=496:width_type=q:width=7.8:g=-1.2,equalizer=f=894:width_type=q:width=21.85:g=-1.2,equalizer=f=1180:width_type=q:width=9.4:g=-1.95,equalizer=f=1789:width_type=q:width=10:g=-2.41,equalizer=f=3184:width_type=q:width=11:g=-1,equalizer=f=3534:width_type=q:width=11.4:g=-1.2,equalizer=f=8900:width_type=q:width=13:g=-1.36,equalizer=f=16511:width_type=q:width=7:g=-1.35",
+        "equalizer=f=157.48:width_type=q:width=1:g=2,equalizer=f=875.23:width_type=q:width=1:g=1.64",
+        "acompressor=threshold=0.209:ratio=1.81:attack=1:release=80:makeup=2.3",
+        "alimiter=level_in=1:level_out=1:limit=1:attack=6:release=272:level=enabled"
+      ],
+      "bitrate": "320k"
+    },
+    "layers": [
+      {
+        "id": "01_Violin_1",
+        "states": {
+          "options": [
+            {
+              "uri": "QmW9R3Syt4KfzykFBUhnso9njhQEU4u1HMuGtwbt3d2FUd"
+            },
+            {
+              "uri": "QmawxWs3i6K3KiPJE2FPfGd8ZMTb95VM3ZfCr81dKRxHbK"
+            },
+            {
+              "uri": "QmQzNcUfC7eg5TMuWXNWUjXLvjrRfXN7Gug96vt3ZnFxki"
+            },
+            {
+              "uri": "QmQh8kiune7Bowit6WJik3YsYXDzjyUZXy186ouHKG9xmF"
+            },
+            {
+              "uri": "QmNkUJjRusPvZWURYLW5HXE5EzM67NzHminYZY9eA7eo3E"
+            }
+          ],
+          "token-id": 1,
+          "lever-id": 0
+        }
+      },
+      {
+        "id": "02_Violin_2",
+        "states": {
+          "options": [
+            {
+              "uri": "QmPw7i54Wk7SPTvqAASuo1161uzrnrPyXHy3pPzfNeSfAt"
+            },
+            {
+              "uri": "QmbAfhUTp4feUDh9T9E9QWaMsfEJHTPw8Zr3jFCAho2Utr"
+            },
+            {
+              "uri": "QmVAwXtC5RvQ6tu697eNNuU58H9Lm7ToiF4uEbiDwsykke"
+            },
+            {
+              "uri": "QmY8pRjPnCRqtwRiBEGrvnDMtffSVg3iUXXtRkfKF1hDNc"
+            },
+            {
+              "uri": "QmVCrC4RDPJYrSRomjnY29mhrPwyyLTpW6vuQ1PQWuR2Dd"
+            }
+          ],
+          "token-id": 2,
+          "lever-id": 0
+        }
+      },
+      {
+        "id": "03_Viola",
+        "states": {
+          "options": [
+            {
+              "uri": "QmYYAydjhGjhcPTcnzKnweeAGfrV2fFxr7J3LvRdQnt33y"
+            },
+            {
+              "uri": "QmahS8bfC23mE51SPFT4L6fSD4yER15tkqXb5jWNNTVfha"
+            },
+            {
+              "uri": "QmanLcUq7f9AMJwjptUmLBZpjNar69iGXAkYjmCPHT1qzy"
+            },
+            {
+              "uri": "QmW7s9VXj7ygo1WJ3wkaJKgo45jxqpfR8aSM1rXCMEAKqc"
+            },
+            {
+              "uri": "QmXYSxTRN7KiboBX5jtTXeMsdWTBrnCPK2DAskKwyAa6Jy"
+            }
+          ],
+          "token-id": 3,
+          "lever-id": 0
+        }
+      },
+      {
+        "id": "04_Cello",
+        "states": {
+          "options": [
+            {
+              "uri": "Qmdo8hjA7uQD1nppao5YDygLiTwskCY8Yhei35EtyLV71S"
+            },
+            {
+              "uri": "QmWCQF1termgNR1oMm3FW3vMW2iFttr4KxJg4qPCcDheZA"
+            },
+            {
+              "uri": "QmZQbE14RbG7b3PYpBvGjE8w4fSW6B2BC4jTxFSe21DhAq"
+            },
+            {
+              "uri": "QmVkYaGuxqYyrB7PGdbsFufwLQpPJd7A5xUjY2rDmwm7Mq"
+            },
+            {
+              "uri": "QmTeVPY6bTSayKiLfjVqqWE1DhyC125VbR9EBc82R82sXp"
+            }
+          ],
+          "token-id": 4,
+          "lever-id": 0
+        }
+      }
+    ]
+  },
+  "image": "QmQgFDLJpr2L41YZjL5LMx1K5c1wrq1s7AY3vRKpddNWcT",
+  "animation_url": "QmZT7PoaeuLU6VYa9AiCi3bjESxSrF8wMyB4wG2c3czsG9"
+}
